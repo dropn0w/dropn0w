@@ -1,6 +1,6 @@
 ### Hi there, I'm drop 👋
 
-## I'm a Marketeer, Data Analyst and a Hacker enthusiast
+## I'm a Marketeer, Data Analyst and Hacker enthusiast
 
 - 🌱 I’m currently finishing my Post Graduate in Data Analysis and learning about Ethical Hacking.
 - 🥅 2021 Goals: Contribute and learn thanks to Open Source projects
