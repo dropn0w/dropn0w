@@ -5,7 +5,7 @@
 - 🌱 I’m currently finishing my Post Graduate in Data Analysis and learning about Ethical Hacking.
 - 🥅 2021 Goals: Contribute and learn thanks to Open Source projects
 - ⚡ Fun fact: I was Counter-Strike Professional Player when I was young.
-<script src="https://tryhackme.com/badge/282832"></script>
+[<script src="https://tryhackme.com/badge/282832"></script>]
 
 
 ### Connect with me:
