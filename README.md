@@ -1,6 +1,7 @@
 ### Hi there, I'm drop 👋
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/dropPEN.png" alt="TryHackMe">]
+[<img src="https://tryhackme-badges.s3.amazonaws.com/dropPEN.png" alt="TryHackMe" />]
+[<img align="left" alt="Salesforce" width="26px" src="https://icon-library.com/images/salesforce-icon-png/salesforce-icon-png-9.jpg" />]
 
 ## I'm a Marketeer, Data Analyst and Hacker enthusiast
 
