@@ -1,8 +1,5 @@
 ### Hi there, I'm drop 👋
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/dropPEN.png" alt="TryHackMe" />]
-[<img align="left" alt="Salesforce" width="26px" src="https://tryhackme-badges.s3.amazonaws.com/dropPEN.png" />]
-
 ## I'm a Marketeer, Data Analyst and Hacker enthusiast
 
 - 🌱 I’m currently finishing my Post Graduate in Data Analysis and learning about Ethical Hacking.
@@ -30,8 +27,8 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Salesforce" width="26px" src="https://icon-library.com/images/salesforce-icon-png/salesforce-icon-png-9.jpg" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] [github]
+[<img align="left" alt="Salesforce" width="26px" src="https://icon-library.com/images/salesforce-icon-png/salesforce-icon-png-9.jpg" />] [github]
 
 <br />
 
@@ -40,3 +37,4 @@
 [instagram]: https://instagram.com/dropn0w
 [twitter]: https://twitter.com/dropn0w
 [linkedin]: https://linkedin.com/in/pedropaniago
+[github]: https://github.com/dropn0w/
