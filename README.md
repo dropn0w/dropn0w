@@ -33,7 +33,6 @@
 [<img align="left" alt="Salesforce" width="26px" src="https://icon-library.com/images/salesforce-icon-png/salesforce-icon-png-9.jpg" />] []
 
 <br />
-<br />
 
 ---
 
