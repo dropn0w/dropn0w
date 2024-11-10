@@ -1,27 +1,26 @@
-# 👋 About me
-
+## 💫 About me
 I'm a Cyber Security Consultant focused on Web, API, and Mobile Penetration Testing and Cyber Investigations. 
 
-Connect with me on these platforms:
-
-<div align="">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedropaniago"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://blog.paniago.io"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  /></a>
   <a href="https://x.com/dropn0w"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  /></a>
 </div>
+<div align="center"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/dropn0w.png" alt="Your Image Badge" />
 
----
+[ ![Relwarc17](https://www.hackthebox.eu/badge/image/478272)](https://www.hackthebox.eu/home/users/profile/478272)
+
+[![](https://visitcount.itsvg.in/api?id=dropn0w&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 ## 📝 Latest Blog Posts ➡️ [blog.paniago.io](https://blog.paniago.io)
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dropn0w/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dropn0w/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dropn0w/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dropn0w/1" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dropn0w/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dropn0w/3" alt="Recent Article 3"> </a>
 
----
-
 ## 🚨 CVEs under my belt
-
 | Plugin                                                                                        | CVE ID                                                                                                                                                                                          |                     CVSS Score                      | Date              |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------: | ----------------- |
 | WooCommerce <= 9.0.2 - Unauthenticated HTML Injection                                         | [CVE2024-9944](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woocommerce/woocommerce-902-unauthenticated-html-injection)                                             | ![](https://img.shields.io/badge/5.3-Medium-yellow) | October 14, 2024  |
