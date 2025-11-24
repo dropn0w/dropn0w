@@ -36,4 +36,4 @@ I'm a Cyber Security Consultant focused on Web, API, and Mobile Penetration Test
 | Formidable Forms <= 6.7 - Authenticated (Administrator+) Stored Cross-Site Scripting          | [CVE2023-6842](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/formidable/formidable-forms-67-authenticated-administrator-stored-cross-site-scripting)                 | ![](https://img.shields.io/badge/4.4-Medium-yellow) | January 8, 2024   |
 | ARForms <= 1.5.8 - Unauthenticated Stored Cross-Site Scripting via arf_http_referrer_url      | [CVE2023-6828](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/arforms-form-builder/arforms-158-unauthenticated-stored-cross-site-scripting-via-arf-http-referrer-url) |   ![](https://img.shields.io/badge/7.2-High-red)    | January 3, 2024   |
 
-PoC: <img/src/onerror=alert(document.domain)>
+[poc](javascript:alert(1))
