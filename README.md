@@ -1,5 +1,5 @@
 ## 💫 About me
-I'm a Cyber Security Consultant focused on Web, API, and Mobile Penetration Testing and Cyber Investigations. 
+I'm aa Cyber Security Consultant focused on Web, API, and Mobile Penetration Testing and Cyber Investigations. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedropaniago"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
