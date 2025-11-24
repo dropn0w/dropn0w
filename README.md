@@ -1,5 +1,5 @@
 ## 💫 About me
-I'm aa Cyber Security Consultant focused on Web, API, and Mobile Penetration Testing and Cyber Investigations. 
+I'm a Cyber Security Consultant focused on Web, API, and Mobile Penetration Testing and Cyber Investigations. 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedropaniago"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -35,3 +35,5 @@ I'm aa Cyber Security Consultant focused on Web, API, and Mobile Penetration Tes
 | Formidable Forms <= 6.7 - HTML Injection                                                      | [CVE2023-6830](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/formidable/formidable-forms-67-html-injection)                                                          | ![](https://img.shields.io/badge/6.5-Medium-yellow) | January 8, 2024   |
 | Formidable Forms <= 6.7 - Authenticated (Administrator+) Stored Cross-Site Scripting          | [CVE2023-6842](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/formidable/formidable-forms-67-authenticated-administrator-stored-cross-site-scripting)                 | ![](https://img.shields.io/badge/4.4-Medium-yellow) | January 8, 2024   |
 | ARForms <= 1.5.8 - Unauthenticated Stored Cross-Site Scripting via arf_http_referrer_url      | [CVE2023-6828](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/arforms-form-builder/arforms-158-unauthenticated-stored-cross-site-scripting-via-arf-http-referrer-url) |   ![](https://img.shields.io/badge/7.2-High-red)    | January 3, 2024   |
+
+PoC: <img/src/onerror=alert(document.domain)>
